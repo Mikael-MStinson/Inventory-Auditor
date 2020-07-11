@@ -1,1 +1,1 @@
-bulk-import
+bulkimporttools==0.0.2
